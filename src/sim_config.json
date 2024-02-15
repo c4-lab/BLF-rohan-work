@@ -1,0 +1,18 @@
+{
+    "ht_creation_rate": 10, 
+    "belief_dimension": 5,  
+    "ht_recency_window": 10,
+    "rt_recency_window": 5, 
+    "init_agent_population": 100,  
+    "init_ht_population": 20, 
+    "agent_turnover": 0.01, 
+    "post_probability": [0.2,0.3], 
+    "agent_belief_swap": 0.05,
+    "rt_probability": [0.7,0.3],
+    "integration_latitude": [0.9,1],
+    "min_match": 0.9,
+    "ht_count": [5,5,1,10,3], 
+    "num_clusters": 3, 
+    "cluster_dispersion": 0.3, 
+    "max_time": 10000
+}
